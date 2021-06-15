@@ -33,3 +33,15 @@
     padding: 20 auto;
     box-shadow: 2px 3px 4px black;
 }
+.btn:hover{
+    width: 80%;
+    background-color: rgb(2, 157, 157);
+    box-shadow: indianred;
+    border-style: double;
+    border-radius: 9px;
+    padding: 8px 20px;
+    color: white;
+    font-weight: 900;
+    padding: 20 auto;
+    box-shadow: 2px 3px 4px black;
+}
