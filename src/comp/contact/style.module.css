@@ -1,0 +1,11 @@
+.main{
+    background-color: rgb(31, 24, 24);
+    padding: 50px 30px;
+    text-align: center;
+    color: blanchedalmond;
+    font-weight: bold;
+}
+.main > a{
+    color: burlywood;
+    text-decoration: none;
+}

@@ -67,6 +67,7 @@ const Home = () => {
 
     return (
         <div className={style.main}>
+            <img width='100%' src={'https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/171286803/original/1610f645ce0e6fec420d566d83a0404a08500757/design-a-shopify-store-banner-or-header.png'} />
             {
                 products.map((obj:any, ind:any) => {
                     return (
